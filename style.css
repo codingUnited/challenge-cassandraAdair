@@ -1,0 +1,29 @@
+.image {
+    background-image: url('Images/background.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    
+}
+h1 {
+    color: white;
+    text-shadow: 0 0 2px black;
+    font-family: cursive;
+    text-align: center;
+
+}
+.textContainer{
+    background-color: rgba(137, 207, 240, 0.6);
+    border-radius: 50px;
+    box-shadow: .5px .5px black;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
