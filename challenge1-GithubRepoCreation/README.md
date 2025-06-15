@@ -38,7 +38,6 @@
 
 ### 🟣 Leet  
 
-- ✅ Still working on...
 - Enable **GitHub Pages** to publish the HTML file
 - Add a `.gitignore` file and explain its purpose
 - Set up a simple GitHub Action that runs on push  
