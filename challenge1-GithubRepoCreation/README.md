@@ -39,8 +39,8 @@
 ### 🟣 Leet  
 
 - ✅ Still working on...
-- [ ] Enable **GitHub Pages** to publish the HTML file
-- [ ] Add a `.gitignore` file and explain its purpose
+- Enable **GitHub Pages** to publish the HTML file
+- Add a `.gitignore` file and explain its purpose
 - [ ] Set up a simple GitHub Action that runs on push  
   _(even just a linter or echo)_
 - Added a favicon and use a custom font
